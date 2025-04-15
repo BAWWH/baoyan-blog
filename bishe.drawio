@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="网络关系图 - 新设计" id="T0NNr2-d_XMmImwdZqJt">
-    <mxGraphModel dx="1831" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1556" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,7 +526,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IxpcNNt1We0J_g9DyOTK-54" value="Embedding&#xa;Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="1230" width="90" height="40" as="geometry" />
+          <mxGeometry x="600" y="1210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IxpcNNt1We0J_g9DyOTK-55" value="v&lt;sub&gt;1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="730" y="1200" width="85" height="40" as="geometry" />
